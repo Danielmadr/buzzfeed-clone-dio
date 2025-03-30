@@ -1,6 +1,21 @@
-# ProjetoBuzzfeed
+# Projeto Buzzfeed Clone
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 14.1.2.
+Este projeto é um clone do Buzzfeed, desenvolvido como parte de um treinamento da DIO (Digital Innovation One). Ele foi criado utilizando o framework Angular, versão 14.1.2.
+
+## Funcionalidades
+
+- **Quiz interativo**: Descubra se você tem perfil de Empreendedor ou Funcionário.
+- **Design responsivo**: Interface adaptada para diferentes tamanhos de tela.
+- **Resultados dinâmicos**: Os resultados são calculados com base nas respostas do usuário.
+
+## Tecnologias Utilizadas
+
+- **Angular**: Framework principal para desenvolvimento do front-end.
+- **TypeScript**: Linguagem utilizada para o desenvolvimento.
+- **CSS**: Estilização do projeto.
+- **JSON**: Armazenamento das perguntas e respostas do quiz.
+
+## Estrutura do Projeto
 
 ## Development server
 
