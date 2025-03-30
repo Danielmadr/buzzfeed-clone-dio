@@ -1,55 +1,93 @@
 {
-  "title":"Você seria um heroi ou vilão ?",
-  "questions":[
+  "title": "Você tem perfil de Empreendedor ou Funcionário?",
+  "questions": [
     {
-      "id":1,
-      "question": "Qual super poder você escolheria ?",
-      "options":[
-        {"id": 1, "name":"Raios-Lasers", "alias":"A"},
-        {"id": 2, "name":"Voar", "alias":"B"},
-        {"id": 3, "name":"Explodir coisas", "alias":"A"},
-        {"id": 4, "name":"Curar feridas", "alias":"B"},
-        {"id": 5, "name":"Soltar fogo pelas mãos", "alias":"A"}
+      "id": 1,
+      "question": "O que mais te motiva no trabalho?",
+      "options": [
+        { "id": 1, "name": "Ter estabilidade, segurança e benefícios", "alias": "B" },
+        { "id": 2, "name": "Criar algo novo e deixar minha marca no mundo", "alias": "A" },
+        { "id": 3, "name": "Seguir um plano bem estruturado para crescer na carreira", "alias": "B" },
+        { "id": 4, "name": "Assumir riscos e buscar grandes conquistas", "alias": "A" }
       ]
     },
     {
-      "id":2,
-      "question": "Quem você salvaria primeiro ?",
-      "options":[
-        {"id": 1, "name":"Crianças", "alias":"A"},
-        {"id": 2, "name":"Idosos", "alias":"A"},
-        {"id": 3, "name":"Não saberia escolher", "alias":"B"}
+      "id": 2,
+      "question": "Como você prefere trabalhar?",
+      "options": [
+        { "id": 1, "name": "Em equipe, com papéis e funções bem definidos", "alias": "B" },
+        { "id": 2, "name": "De forma independente, tomando decisões por conta própria", "alias": "A" },
+        { "id": 3, "name": "Seguindo orientações claras de um líder experiente", "alias": "B" },
+        { "id": 4, "name": "Liderando e inspirando outras pessoas", "alias": "A" }
       ]
     },
     {
-      "id":3,
-      "question": "Qual a sua maior preocupação ao enfretar outro super ser ?",
-      "options":[
-        {"id": 1, "name":"Não destruir prédios", "alias":"B"},
-        {"id": 2, "name":"Socar a cara do inimigo", "alias":"A"},
-        {"id": 3, "name":"Não sujar meu traje", "alias":"A"},
-        {"id": 4, "name":"Não deixar ninguém se ferir", "alias":"B"}
+      "id": 3,
+      "question": "Como você lida com incertezas e mudanças?",
+      "options": [
+        { "id": 1, "name": "Prefiro evitar situações incertas e manter previsibilidade", "alias": "B" },
+        { "id": 2, "name": "Vejo incertezas como oportunidades de crescimento", "alias": "A" },
+        { "id": 3, "name": "Me sinto desconfortável, mas consigo me adaptar", "alias": "B" },
+        { "id": 4, "name": "Adoro desafios e a emoção do desconhecido", "alias": "A" }
       ]
     },
     {
-      "id":4,
-      "question": "Qual o seu maior foco ?",
-      "options":[
-        {"id": 1, "name":"Ficar rico com poderes", "alias":"A"},
-        {"id": 2, "name":"Salvar a cidade", "alias":"B"}
+      "id": 4,
+      "question": "O que você prefere em relação ao seu tempo de trabalho?",
+      "options": [
+        { "id": 1, "name": "Ter horários fixos e previsíveis", "alias": "B" },
+        { "id": 2, "name": "Ter flexibilidade para organizar minha própria rotina", "alias": "A" }
       ]
     },
     {
-      "id":5,
-      "question": "Qual o seu apelido de super ser ?",
-      "options":[
-        {"id": 1, "name":"O Terrivel", "alias":"A"},
-        {"id": 2, "name":"Amigo da vizinhança", "alias":"B"}
+      "id": 5,
+      "question": "Como você se sente ao assumir grandes responsabilidades?",
+      "options": [
+        { "id": 1, "name": "Prefiro que as decisões importantes sejam tomadas por superiores", "alias": "B" },
+        { "id": 2, "name": "Gosto de assumir responsabilidades e tomar decisões estratégicas", "alias": "A" }
+      ]
+    },
+    {
+      "id": 6,
+      "question": "Como você lida com falhas e fracassos?",
+      "options": [
+        { "id": 1, "name": "Evito correr riscos para não errar", "alias": "B" },
+        { "id": 2, "name": "Vejo os erros como aprendizado e sigo em frente", "alias": "A" },
+        { "id": 3, "name": "Fico frustrado, mas busco entender o que deu errado", "alias": "B" },
+        { "id": 4, "name": "Acredito que errar faz parte do caminho para o sucesso", "alias": "A" }
+      ]
+    },
+    {
+      "id": 7,
+      "question": "Como você se sente em relação a dinheiro e estabilidade financeira?",
+      "options": [
+        { "id": 1, "name": "Prefiro um salário fixo e previsível todo mês", "alias": "B" },
+        { "id": 2, "name": "Estou disposto a ganhar menos no início para ter maior retorno no futuro", "alias": "A" },
+        { "id": 3, "name": "Busco crescimento dentro de um plano de carreira estável", "alias": "B" },
+        { "id": 4, "name": "Prefiro construir meu próprio caminho financeiro, mesmo sem garantias", "alias": "A" }
+      ]
+    },
+    {
+      "id": 8,
+      "question": "Como você lida com burocracia e processos administrativos?",
+      "options": [
+        { "id": 1, "name": "Prefiro que tudo tenha regras claras e bem definidas", "alias": "B" },
+        { "id": 2, "name": "A burocracia me incomoda, gosto de criar novas formas de fazer as coisas", "alias": "A" },
+        { "id": 3, "name": "Acho necessário ter processos organizados para tudo funcionar bem", "alias": "B" },
+        { "id": 4, "name": "Se for preciso quebrar regras para inovar, eu topo", "alias": "A" }
+      ]
+    },
+    {
+      "id": 9,
+      "question": "Qual dessas frases mais combina com você?",
+      "options": [
+        { "id": 1, "name": "Sigo um plano e me sinto confortável com rotinas bem definidas", "alias": "B" },
+        { "id": 2, "name": "A rotina me cansa, preciso de mudanças constantes para me motivar", "alias": "A" }
       ]
     }
   ],
-  "results":{
-    "A": "Você muito provavelmente seria um super vilão!",
-    "B": "Você muito provavelmente seria um super Herói!"
+  "results": {
+    "A": "Você tem grande potencial para ser um Empreendedor! Você gosta de desafios, liberdade e inovação. Está sempre buscando novas oportunidades e não tem medo de assumir riscos para alcançar seus objetivos.",
+    "B": "Você tem grande potencial para ser um Funcionário! Você valoriza estabilidade, segurança e trabalho em equipe. Gosta de seguir planos bem definidos e busca crescer dentro de um ambiente organizado e estruturado."
   }
 }
